@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 💻 Computer Engineering 
 📊 Interested in Data Analysis, Software Development & Database Administrator  
 🌎 From Costa Rica 🇨🇷 

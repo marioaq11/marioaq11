@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+💻 Computer Engineering student  
+📊 Interested in Data Analysis & Software Development  
+🌎 From Costa Rica 🇨🇷 
+
+## 🧠 About Me
+- 🔭 Currently learning: .NET, APIs, SQL Server
+- 📈 Interested in: Data Analysis, Backend Development, QA
+
+## 🛠️ Tech Stack
+- 💻 Languages: C#, JavaScript, Python, SQL
+- 🧰 Tools: Git, GitHub, Power BI, Oracle
+- 🌐 Web: HTML, CSS, PHP, .NET
+
+## 📫 Contact
+- 📧 Email: alfaroquesadasteven.com
+- 💼 LinkedIn: https://www.linkedin.com/in/mario-alfaro-quesada-969938124/
+
+
 <!--
 **marioaq11/marioaq11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

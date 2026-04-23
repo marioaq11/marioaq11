@@ -4,15 +4,18 @@
 📊 Interested in Data Analysis, Software Development & Database Administrator  
 🌎 From Costa Rica 🇨🇷 
 
+
 ## 🧠 About Me
 - 🔭 Currently learning: .NET, APIs, SQL Server
 - 📈 Interested in: Data Analysis, Backend Development, QA
+
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, Python, SQL
 - 🗄️ Databases: Oracle, SQL Server
 - 🧰 Tools: Git, GitHub, Power BI, Oracle
 - 🌐 Web: HTML, CSS, PHP, .NET
+
 
 ## 📫 Contact
 - 📧 Email: alfaroquesadasteven.com

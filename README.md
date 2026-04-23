@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-💻 Computer Engineering student  
-📊 Interested in Data Analysis & Software Development  
+💻 Computer Engineering 
+📊 Interested in Data Analysis, Software Development & Database Administrator  
 🌎 From Costa Rica 🇨🇷 
 
 ## 🧠 About Me
@@ -10,6 +10,7 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, Python, SQL
+- 🗄️ Databases: Oracle, SQL Server
 - 🧰 Tools: Git, GitHub, Power BI, Oracle
 - 🌐 Web: HTML, CSS, PHP, .NET
 

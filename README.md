@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, Python, SQL
 - 🗄️ Databases: Oracle, MySQL
-- 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCODE
+- 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCode
 - 🌐 Web: HTML, CSS, PHP, .NET
 
 

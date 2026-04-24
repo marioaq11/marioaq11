@@ -13,8 +13,8 @@
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, Python, SQL
-- 🗄️ Databases: Oracle, SQL Server
-- 🧰 Tools: Git, GitHub, Power BI, Oracle
+- 🗄️ Databases: Oracle, SQL MySQL
+- 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCODE
 - 🌐 Web: HTML, CSS, PHP, .NET
 
 

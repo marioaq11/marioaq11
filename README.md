@@ -7,14 +7,14 @@
 
 
 ## 🧠 About Me
-- 🔭 Currently learning: .NET, APIs, SQL Server
-- 📈 Interested in: Data Analysis, Backend Development, QA
+- 🔭 Currently learning: .NET, Data Analyst
+- 📈 Interested in: Data Analysis, Frontend Development,
 
 
 ## 🛠️ Tech Stack
 - 💻 Languages: C#, JavaScript, Python, SQL
 - 🗄️ Databases: Oracle, MySQL
-- 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCode
+- 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCode, Jira
 - 🌐 Web: HTML, CSS, PHP, .NET
 
 

@@ -6,7 +6,7 @@ Interested in Data Analysis, Software Development & Database Administrator
 From Costa Rica 🇨🇷 
 
 
-## About Me
+## 🧠 About Me
 - Currently learning: .NET, Data Analyst
 - Interested in: Data Analysis, Frontend Development,
 

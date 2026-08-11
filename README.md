@@ -15,7 +15,7 @@
 - 💻 Languages: C#, JavaScript, Python, SQL
 - 🗄️ Databases: Oracle, MySQL
 - 🧰 Tools: Git, GitHub, Power BI, Oracle, VSCode, Jira
-- 🌐 Web: HTML, CSS, PHP, .NET
+- 🌐 Web: HTML, CSS, PHP, .NET, Bootstrap
 
 
 ## 📫 Contact

@@ -41,8 +41,6 @@ I'm currently growing my experience as a Software Developer, working with intern
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-**Also:** Oracle Database · SQL Server · SQL
-
 ### 🔧 Tools
 
 <p align="left">

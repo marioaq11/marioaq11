@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mario Steven Alfaro Quesada
+# 👋 Hi, I'm Mario
 
 ### 💻 Computer Engineer | Junior Software Developer
 
